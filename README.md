@@ -1,0 +1,3 @@
+- 注册中心eureka
+- 网关Gateway
+- 监控SBA
