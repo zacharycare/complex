@@ -1,0 +1,4 @@
+# Project exclude paths
+/base/admin/target/
+/base/eureka/target/
+/base/gateway/target/
